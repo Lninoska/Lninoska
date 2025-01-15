@@ -7,4 +7,4 @@
 Frontend: HTML 📄, CSS 🎨, JavaScript ⚡
 Backend: Node.js 🌐, Express 🚀, PostgreSQL 🗃️
 Otros: Git 🔧, GitHub 🧑‍💻, JWT 🔑, APIs 🌍
-💡 Con conocimientos en diseño, desarrollo web, y todo lo que abarca el mundo Fullstack. ¡Siempre lista para nuevos desafíos! 🚀✨
+
