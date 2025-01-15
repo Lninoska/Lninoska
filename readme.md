@@ -1,3 +1,4 @@
+# ¡Hola! Soy Lorena Barrios  👋
 🎨 Diseñadora Gráfica & UX-UI
 💻 Fullstack JavaScript Developer (acabo de completar un bootcamp)
 📚 Apasionada por el aprendizaje constante
